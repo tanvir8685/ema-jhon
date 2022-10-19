@@ -1,9 +1,12 @@
-import React from 'react';
+import React, { } from 'react';
+
 
 const About = () => {
+   
     return (
         <div>
             <h2>Secret About to us</h2>
+            
         </div>
     );
 };
